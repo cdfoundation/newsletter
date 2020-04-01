@@ -1,6 +1,14 @@
 # CDF Newsletter
 
-CDF produces a monthly newsletter. [Subscribe to newsletter](https://cd.foundation/stay-connected/)
+CDF produces a monthly newsletter.
+The newsletter aims to curate original content that provides industry guidance on modern CI/CD as well as on best practices and emerging trends across software delivery.
+
+The newsletter supports the [CDF 9 strategic goals](https://cd.foundation/blog/2019/10/17/cdfs-governing-board-unveils-9-strategic-goals/) by
+ * Helping advance Continuous Delivery adoption (Goal #1)
+ * Supporting growth of CDF projects through informative articles (Goal #2)
+ * Aiming to foster a diverse set of authors (Goal #4)
+
+[Subscribe to newsletter](https://cd.foundation/stay-connected/)
 
 ## Editorial Calendar
 | Month | Topic | Drafts due | Newsletter goes out |
