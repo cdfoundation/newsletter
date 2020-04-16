@@ -34,4 +34,4 @@ Security
  * CDF Projects security initiatives
  
  ## Contribute
- If you have a proposed article for the newsletter or topic suggestion please get in touch via [Newsletter Content Submission Form](https://forms.gle/4BR3QjZWUVrEUPub7) or through the outreach committee. 
+ If you have a proposed article for the newsletter or topic suggestion please get in touch via [Newsletter Content Submission Form](https://cd.foundation/cdf-newsletter-submission-form/) or through the outreach committee. 
