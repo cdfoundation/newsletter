@@ -17,7 +17,7 @@ The newsletter supports the [CDF 9 strategic goals](https://cd.foundation/blog/2
 | June | MLOps | 19-May-2020 | 02-Jun-2020 |
 | July | Security | 29-Jun-2020 | 07-Jul-2020 |
 | August | Jenkins | 27-Jul-2020 | 04-Aug-2020 |
-| September | TBD | 24-Aug-2020 | 1-Sep-2020 |
+| September | CDCon | 24-Aug-2020 | 1-Sep-2020 |
 | October | TBD | 28-Sep-2020 | 06-Oct-2020 |
 | November | TBD | 26-Oct-2020 | 03-Nov-2020 |
 | December | TBD | 23-Nov-2020 | 01-Dec-2020 |
