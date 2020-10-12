@@ -22,22 +22,6 @@ The newsletter supports the [CDF 9 strategic goals](https://cd.foundation/blog/2
 | November 2020 | CDCon Recap | 26-Oct-2020 | 03-Nov-2020 |
 | December 2020 | Best Practices | 23-Nov-2020 | 01-Dec-2020 |
 | January 2021 | Annual Report + Project Summaries | 23-Nov-2020 | 01-Dec-2020 |
-
-Interoperability
- * Why is this important for CI/CD industry
- * Interoperability SIG initiatives
- * CDF projects interoperability
- 
-MLOps
- * What is MLOps? Challenges in the space, direction & trends
- * MLOps SIG initiatives e.g. roadmap
- * CDF Projects & MLOps
- 
-Security
- * State of tool security today
- * Security SIG initiatives 
- * Best practices for CI/CD security
- * CDF Projects security initiatives
  
  ## Contribute
  If you have a proposed article for the newsletter or topic suggestion please get in touch via [Newsletter Content Submission Form](https://cd.foundation/stay-connected/newsletter-submission-form/) or through the outreach committee. 
