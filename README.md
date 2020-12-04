@@ -21,7 +21,7 @@ The newsletter supports the [CDF 9 strategic goals](https://cd.foundation/blog/2
 | October 2020 | Get Involved CDCon + Hacktoberfest | 22-Sep-2020 | 01-Oct-2020 |
 | November 2020 | Great CDCon Talks | 26-Oct-2020 | 03-Nov-2020 |
 | December 2020 | Continuous Delivery in Action | 23-Nov-2020 | 01-Dec-2020 |
-| January 2021 | Annual Report + Project Summaries | 21-Dec-2020 | 07-Jan-2021 |
+| January 2021 | CDF Wrapped | 04-Jan-2020 | 07-Jan-2021 |
  
  ## Contribute
  If you have a proposed article for the newsletter or topic suggestion please get in touch via [Newsletter Content Submission Form](https://cd.foundation/stay-connected/newsletter-submission-form/) or through the outreach committee. 
