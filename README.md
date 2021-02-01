@@ -13,8 +13,9 @@ The newsletter supports the [CDF 9 strategic goals](https://cd.foundation/blog/2
 ## Editorial Calendar
 | Month | Topic | Drafts Due | Newsletter Sent |
 | ----- | ----- | ---------- | ------------------- |
-| February 2021 | Annual Report | 26-Jan-2020 | 04-Feb-2021 |
-| January 2021 | CDF Wrapped | 04-Jan-2020 | 07-Jan-2021 |
+| March 2021 | TBD | 25-Feb-2020 | 04-Mar-2021 |
+| February 2021 | Annual Report + 2021 Trends| 26-Jan-2020 | 04-Feb-2021 |
+| January 2021 | Skipped | 04-Jan-2020 | 07-Jan-2021 |
 | December 2020 | CD Real-World Use Cases | 23-Nov-2020 | 01-Dec-2020 |
 | November 2020 | Top cdCon Talks | 26-Oct-2020 | 03-Nov-2020 |
 | October 2020 | Get Involved cdCon + Hacktoberfest | 22-Sep-2020 | 01-Oct-2020 |
